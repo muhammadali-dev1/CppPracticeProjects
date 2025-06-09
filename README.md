@@ -1,2 +1,2 @@
 # CppPracticeProjects
-A collection of C++ lab assignments and personal practice programs. Some coursework is still in progress, so not everything can be uploaded immediately due to plagiarism concerns.
+A collection of personal C++ projects I worked on in my free time to build and show what I’ve learned.
